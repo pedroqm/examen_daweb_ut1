@@ -1,2 +1,3 @@
 <?=
+$appName="Aplicacion de prueba";
 ?>
